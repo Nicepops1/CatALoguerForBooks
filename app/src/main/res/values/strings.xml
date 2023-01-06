@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CfB</string>
+    <string name="label_name">Cat-A-Loguer for \nbooks</string>
+    <string name="library">Библиотека</string>
+    <string name="scan">Сканирование</string>
+    <string name="export">Экспорт</string>
+    <string name="cataloguer">Каталогизация</string>
+    <string name="settings">Настройки</string>
+</resources>
