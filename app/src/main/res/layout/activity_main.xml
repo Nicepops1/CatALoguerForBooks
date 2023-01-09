@@ -50,7 +50,8 @@
                 android:orientation="vertical"
                 android:textAlignment="center"
                 app:flow_horizontalAlign="center"
-                app:flow_verticalAlign="center">
+                app:flow_verticalAlign="center"
+                android:onClick="goToLibrary">
 
                 <ImageView
                     android:id="@+id/imageView3"
@@ -78,7 +79,8 @@
                 android:orientation="vertical"
                 android:textAlignment="center"
                 app:flow_horizontalAlign="center"
-                app:flow_verticalAlign="center">
+                app:flow_verticalAlign="center"
+                android:onClick="goToScan">
 
                 <ImageView
                     android:id="@+id/imageView4"
@@ -113,7 +115,8 @@
                 android:orientation="vertical"
                 android:textAlignment="center"
                 app:flow_horizontalAlign="center"
-                app:flow_verticalAlign="center">
+                app:flow_verticalAlign="center"
+                android:onClick="goToExport">
 
                 <ImageView
                     android:id="@+id/imageView5"
@@ -141,7 +144,8 @@
                 android:orientation="vertical"
                 android:textAlignment="center"
                 app:flow_horizontalAlign="center"
-                app:flow_verticalAlign="center">
+                app:flow_verticalAlign="center"
+                android:onClick="goToCataloguer">
 
                 <ImageView
                     android:id="@+id/imageView6"
