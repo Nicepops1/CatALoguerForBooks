@@ -6,4 +6,11 @@
     <string name="export">Экспорт</string>
     <string name="cataloguer">Каталогизация</string>
     <string name="settings">Настройки</string>
+    <string name="add_note">Добавить запись</string>
+    <string name="del_note">Удалить запись</string>
+    <string name="filter_note">Фильтр</string>
+    <string name="title_hint">Укажите название произведения</string>
+    <string name="author_hint">Укажите автора произведения</string>
+    <string name="genre_hint">Укажите жанр</string>
+    <string name="choose_tags">Выберите теги</string>
 </resources>

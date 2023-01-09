@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:title="Добавить запись"
+        android:title="@string/add_note"
+        android:onClick="goToAddNote"
         />
     <item
-        android:title="Удалить запись"/>
+        android:title="@string/del_note"/>
     <item
-        android:title="Фильтр"/>
+        android:title="@string/filter_note"/>
 </menu>
