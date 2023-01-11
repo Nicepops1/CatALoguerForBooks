@@ -13,4 +13,5 @@
     <string name="author_hint">Укажите автора произведения</string>
     <string name="genre_hint">Укажите жанр</string>
     <string name="choose_tags">Выберите теги</string>
+    <string name="save_note">Сохранить запись</string>
 </resources>

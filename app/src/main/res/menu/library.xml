@@ -5,7 +5,5 @@
         android:onClick="goToAddNote"
         />
     <item
-        android:title="@string/del_note"/>
-    <item
         android:title="@string/filter_note"/>
 </menu>

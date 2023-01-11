@@ -16,7 +16,7 @@
             android:exported="false"
             android:parentActivityName=".LibraryActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:theme="@style/Theme.AppCompat"
             android:label="Добавление записи">
             <meta-data
                 android:name="android.app.lib_name"
